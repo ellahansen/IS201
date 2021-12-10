@@ -1,0 +1,20 @@
+.bold {
+    font-weight: bold;
+}
+
+li {
+    font-weight: normal;
+}
+
+.pictures {
+    padding: 5px; 
+}
+
+.ella {
+    color: white; 
+    text-decoration: underline;
+}
+
+.center {
+    text-align: center;
+}
